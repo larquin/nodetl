@@ -1,0 +1,26 @@
+{
+  "name": "nodetl",
+  "version": "1.0.0",
+  "description": "ETL Experiments with Node",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/larquin/nodetl.git"
+  },
+  "author": "Micah S. Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larquin/nodetl/issues"
+  },
+  "homepage": "https://github.com/larquin/nodetl#readme"
+}
